@@ -1,0 +1,118 @@
+*{  
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+
+    flex-grow: 1;
+    padding-top: 17px;
+    padding-left: 44px;
+    height: 100vh;
+    display: flex;
+    flex-direction:column;
+    background-color: #231F1F;
+}
+.container{
+
+    color: #FEFEFE;
+    font-size: 1.7vh;
+    font-family: 'Roboto';
+    font-style: bold;
+    top: 4%;
+    position: absolute;
+    right: 30%;
+    width: 50vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+header{
+    height: 8vh;
+}
+
+.logo{
+    position: relative
+    right: 95%;
+
+}
+.text{
+
+    padding-top: 2.2vh;
+    position: absolute;
+     left: 10vh;
+}
+
+.elipse{
+
+    position: absolute;
+    top: 3.8vh;
+    left: 7.1vh;
+}
+.carrinho{
+
+    padding-top: 2.2vh;
+    position: absolute;
+    right: 5%;
+}
+
+.lupa{
+
+    padding-top: 2.2vh;
+    position: absolute;
+    right: 8%;
+}
+main{
+
+    background-color: violet;
+    height: 80%;
+    padding-left: 10.9vh;
+    padding-top: 17.8vh;
+    display: grid;
+    grid-template-rows: repeat(12,1fr);
+}
+.subtitulo {
+    font-size: 2vh;
+    font-family: 'Roboto';
+    letter-spacing: 0.7vh;
+    vertical-align: top;
+    width: 32.4vh ;
+}
+
+.titulo{
+
+    width: 49.6vh;
+    font-size: 10.5vh;
+    font-family: row;
+    font-family: 'Rowdies';
+
+}
+
+.descricao{
+
+    width: 44.7vh;
+    font-size: 1.7vh;
+    font-family: "Roboto";
+    font-style: normal;
+    color: white;
+}
+
+.compra{
+
+    grid-row: 8/9;
+    font-size: 2vh;
+    font-family: "Roboto";
+    font-style: "Bold";
+}
+.retangulo{
+
+    height: 20px;
+    width: 20px;
+}
+footer{
+    background-color: teal;
+}
+
