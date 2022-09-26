@@ -7,9 +7,7 @@
 }
 
 body{
-
     flex-grow: 1;
-    padding-top: 17px;
     padding-left: 44px;
     height: 100vh;
     display: flex;
@@ -163,23 +161,25 @@ main{
 .retangulo{
     z-index: -1;
     position: absolute;
-    transform: translate(120%);
+    transform: translate(90%);
+    top: 0%;
+    height: 100%;
 
 }
 .retangulo_menor{
     z-index: -1;
     position: absolute;
-    transform: translateX(164%);
-  
+    transform: translateX(130%);
+    top: 0%;
+    height: 100%;
 }
 
 .texto_transparente{
     z-index: -1;
     position: absolute;
-    transform: translateX(10%);
+    transform: translateX(25%);
     top: 25%;
     font-size: 16rem;
-    width: 2281px;
     line-height: 319px;
     font-weight: 400;
     font-family: 'Rowdies', cursive;
