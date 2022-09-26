@@ -105,6 +105,9 @@ main{
     line-height: 17.58px;
 }
 
+.texto_colorido{
+    color: #F2AE00;
+}
 .rectangle{
     position: relative;
     grid-row: 10/10;
@@ -184,8 +187,8 @@ main{
     font-weight: 400;
     font-family: 'Rowdies', cursive;
     color: #353333;
-}
 
+}
 footer{
     display: flex;
     flex-direction: row;
