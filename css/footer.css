@@ -1,0 +1,29 @@
+footer{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    justify-content: end;
+    padding-right: 49px;
+}
+
+.exposition_camera{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 92px;
+    width: 101px;
+    border-radius: 5%;
+    background-color: #5D5C5C;
+    border: 2px solid #F2AE00;
+}
+.exposition{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 92px;
+    width: 101px;
+    border-radius: 5%;
+    background-color: #5D5C5C;
+}

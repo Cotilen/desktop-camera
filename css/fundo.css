@@ -1,0 +1,27 @@
+.retangulo{
+    z-index: -1;
+    position: absolute;
+    transform: translate(90%);
+    top: 0%;
+    height: 100%;
+
+}
+.retangulo_menor{
+    z-index: -1;
+    position: absolute;
+    transform: translateX(130%);
+    top: 0%;
+    height: 100%;
+}
+
+.texto_transparente{
+    z-index: -1;
+    position: absolute;
+    transform: translateX(25%);
+    top: 25%;
+    font-size: 16rem;
+    line-height: 319px;
+    font-weight: 400;
+    font-family: 'Rowdies', cursive;
+    color: #353333;
+}

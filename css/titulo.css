@@ -1,0 +1,34 @@
+.subtitulo {
+    grid-row: 4/4;
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.7vh;
+    vertical-align: top;
+    width: 500px;
+    color: #FEFEFE;
+}
+
+.titulo{
+    grid-row: 5/5;
+    width: 49.6vh;
+    font-size: 10.5vh;
+    font-family: 'Rowdies', cursive;
+    font-weight: 400;
+    color: #FEFEFE;
+ 
+}
+
+.descricao{
+    grid-row: 6/6;
+    width: 44.7vh;
+    font-size: 1.7vh;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    color: white;
+    line-height: 17.58px;
+}
+
+.texto_colorido{
+    color: #F2AE00;
+}
