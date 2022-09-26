@@ -7,8 +7,6 @@ body{
     flex-direction:column;
     background-color: #231F1F;
 }
-
-
 header{
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
@@ -26,9 +24,6 @@ main{
     grid-template-rows: repeat(12,1fr);
     margin-left: 110px;
 }
-
-
-
 .camera{
     position: absolute;
     transform: translateX(110%);
