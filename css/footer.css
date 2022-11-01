@@ -1,4 +1,4 @@
-footer{
+footer {
     display: flex;
     flex-direction: row;
     gap: 24px;
@@ -6,7 +6,7 @@ footer{
     padding-right: 49px;
 }
 
-.exposition_camera{
+.exposition {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -15,15 +15,10 @@ footer{
     width: 101px;
     border-radius: 5%;
     background-color: #5D5C5C;
-    border: 2px solid #F2AE00;
+    border: 2px solid #5D5C5C;
+    transition: border-color .5s;
 }
-.exposition{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    height: 92px;
-    width: 101px;
-    border-radius: 5%;
-    background-color: #5D5C5C;
+
+.exposition:hover {
+    border-color: #F2AE00;
 }
