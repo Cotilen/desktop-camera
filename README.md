@@ -6,7 +6,7 @@
 ## Sobre
 Site do tipo landing page para divulgar a camera EVO 4.0
 O objetivo deste projeto é colocar em prática os conhecimentos adquiridos no curso do [SENAI Jandira](https://jandira.sp.senai.br/) na criação de web sites.
-[Clique aqui](https://cleiton-beep.github.io/desktop-camera/) para acessar o site.
+[Clique aqui](https://cotilen.github.io/desktop-camera/) para acessar o site.
 ---
 ## Tecnologias utilizadas 
 
@@ -24,5 +24,5 @@ O objetivo deste projeto é colocar em prática os conhecimentos adquiridos no c
 ---
 ## Equipe
 
-- [Cleiton](https://github.com/Cleiton-beep)
+- [Cleiton](https://github.com/cotilen)
 
